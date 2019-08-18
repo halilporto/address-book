@@ -1,0 +1,12 @@
+.header{
+    background-color: rgb(218, 208, 208);
+    font-weight: 600;
+}
+
+.table-col{
+    min-width: 190px;
+}
+
+h1{
+    text-align: center;
+}
